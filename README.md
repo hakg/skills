@@ -14,3 +14,10 @@
 ```
 CI/CD를 중점으로 개발과 운영을 위한 프로세스를 가진 방식
 ```
+
+## 개발용어
+OpenAPI Specification(OAS)
+```
+OpenAPI 설계, 개발, 요청정보, 호출정보 등 표준명세서
+ - 관련기술 : Swagger
+```
