@@ -21,10 +21,12 @@ OpenAPI Specification(OAS)
 OpenAPI 설계, 개발, 요청정보, 호출정보 등 표준명세서
  - 관련기술 : Swagger
 ```
+
 트러블슈팅(Trouble Shooting)
 ```
 문제가 발생하였을때 원인을 규명하고 해결하는 작업을 의미
 ```
+
 랜더링(Rendering)
 ```
 데이터를 시각적으로 나타내는 의미
@@ -36,11 +38,16 @@ OpenAPI 설계, 개발, 요청정보, 호출정보 등 표준명세서
   2. 클라이언트사이드렌더링(Client-Side Rendering, CSR)
    > 클라이언트에서 비동기로 데이터를 받아서 동적으로 페이지를 생성하는 방식 (Vue.js[Nuxt.js], React[Next.js] 등 View 프레임워크 존재)
 ```
+
 검색엔진최적화(Search Engine Optimization, SEO)
 ```
 웹사이트나 웹 페이지가 검색 엔진 결과 페이지(SERP)에서 노출되기 위해 콘텐츠를 최적화하는 과정
 ```
 
+보일러플레이트(Boilerplate)
+```
+반복적인 구조로 재사용되는 코드
+```
 
 
 
