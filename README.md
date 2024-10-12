@@ -15,6 +15,11 @@
 CI/CD를 중점으로 개발과 운영을 위한 프로세스를 가진 방식
 ```
 
+### 4. 깃플로우(Gitflow)
+```
+Git 브랜치 관리에 대한 전략
+```
+
 ## 개발용어
 OpenAPI Specification(OAS)
 ```
